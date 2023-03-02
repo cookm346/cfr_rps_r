@@ -139,7 +139,7 @@ cfr_trainer <- cfr_rps$new(n_iter = n_iter)
 cfr_trainer$train()
 ```
 
-<br / >
+<br />
 
 After training the model through self play for `r scales::comma(n_iter)` iterations, the model learns to play rock, paper, and scissors in equal proportions. This algorithm can be extended to other games such as poker.
 
@@ -147,8 +147,8 @@ After training the model through self play for `r scales::comma(n_iter)` iterati
 cfr_trainer$plot()
 ```
 
-<br / >
-<br / >
-<br / >
-<br / >
-<br / >
+<br />
+<br />
+<br />
+<br />
+<br />

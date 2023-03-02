@@ -138,7 +138,7 @@ cfr_trainer <- cfr_rps$new(n_iter = n_iter)
 cfr_trainer$train()
 ```
 
-<br / >
+<br />
 
 After training the model through self play for 5,000 iterations, the
 model learns to play rock, paper, and scissors in equal proportions.
@@ -150,4 +150,4 @@ cfr_trainer$plot()
 
 ![](README_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
-<br / > <br / > <br / > <br / > <br / >
+<br /> <br /> <br /> <br /> <br />
