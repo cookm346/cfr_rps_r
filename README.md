@@ -19,7 +19,7 @@ learns the Nash equilibrium for the game through the following steps:
 -   Once normalized, this distribution is the model’s final
     probabilities in which to optimally sample actions
 
-<br / >
+<br />
 
 ``` r
 library(tidyverse)

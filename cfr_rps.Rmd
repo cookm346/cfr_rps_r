@@ -20,7 +20,7 @@ The following implements the Counterfactual regret minimization algorithm for ro
 * Add the normalized positive regrets (probability distribution) to a cumulative probability distribution 
 * Once normalized, this distribution is the model's final probabilities in which to optimally sample actions
 
-<br / >
+<br />
 
 ```{r}
 library(tidyverse)
