@@ -1,4 +1,4 @@
-### Rock, Paper, Scissors AI through trained self play via Counterfactual Regret Minimization Algorithm
+### Rock, Paper, Scissors AI trained through self-play via Counterfactual Regret Minimization Algorithm
 
 The following implements the Counterfactual regret minimization
 algorithm for rock, paper, scissors. Through this algorithm the model
